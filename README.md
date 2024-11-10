@@ -41,18 +41,34 @@
   - [ ] DL Book Maths (chapter 1-7) - Sanyam Bhutani
   - [ ] Maths for ML - Luis Serrano (Deeplearning.ai)
   - [ ] Introduction to Algorithms and Machine Learning - JustinMath
-  - [ ] Linear Algebra - Imperial college London
-  - [ ] Essence of Linear Algebra
-  - [ ] Computational Linear Agebra - Fastai
-  - [ ] Linear Algebra 101 for AI ML (Trybackprop)
-  - [ ] Linear Alegbra - Gilbert Strang (Lecture 1-14)
-  - [ ] Derivates fundamentals (Khan academy)
-  - [ ] Essence of Calculus - 3b1b
-  - [ ] Multivariate Calculus - Imperial College London
-  - [ ] Matrix Calculus you need for DL - Jeremy Howard 
-  - [ ] The Statquest
-  - [ ] Statistics 110: Probability - Joe Blitz
-  - [ ] 
+
+    #### Linear algebra
+      - [ ] Linear Algebra - Imperial college London
+      - [ ] Essence of Linear Algebra
+      - [ ] Computational Linear Agebra - Fastai
+      - [ ] Linear Algebra 101 for AI ML (Trybackprop)
+      - [ ] Linear Alegbra - Gilbert Strang (Lecture 1-14)
+    #### Calculus
+      - [ ] Derivates fundamentals (Khan academy)
+      - [ ] Essence of Calculus - 3b1b
+      - [ ] Multivariate Calculus - Imperial College London
+      - [ ] Matrix Calculus you need for DL - Jeremy Howard 
+    #### Statistics & Probability   
+      - [ ] The Statquest
+      - [ ] Statistics 110: Probability - Joe Blitz
+       
+
+### Implement Papers
+
+> You wanna be an ML engineer? Well, here's the steps to get good at that:
+> 
+> 1.  Download a paper
+> 2.  Implement it
+> 3.  Keep doing this until you have skills
+> 
+> ~ _George Hotz_
+
+Add Papers to implement it in code.
 
 
 
