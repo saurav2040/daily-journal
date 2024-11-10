@@ -11,6 +11,9 @@
   - [ ] Fastai part 2 (2022)
   - [ ] Fastai part 2 (2019) [lesson 8-12]
   - [ ] Neural Networks from Scratch in Raw Python (sentdex book)
+  - [ ] The Fundamentals of Modern DL - Sebastian Raschka
+  - [ ] ML With Pytorch & Scikit Learn - Sebastian Raschka
+  - [ ] 
 
   
 
